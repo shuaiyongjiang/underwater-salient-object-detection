@@ -11,5 +11,5 @@
 
 | Year. | Pub. | Title | Link | 
 | --- | --- | --- | --- |  
-| 2023 | TIP | USOD10K | [baidu fetch code:good](https://pan.baidu.com/share/init?surl=edg2B9HjnHdEpmwnUOT0-w)/[google drive](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view) |  
+| 2023 | TIP | USOD10K | [baidu](https://pan.baidu.com/share/init?surl=edg2B9HjnHdEpmwnUOT0-w) fetch code:good/[google drive](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view) |  
 | 2022 | RSS | USOD | [google drive](https://irvlab.cs.umn.edu/resources/usod-dataset) |  
