@@ -14,4 +14,4 @@
 | --- | --- | --- | --- |  
 | 2023 | TIP | USOD10K | [baidu](https://pan.baidu.com/share/init?surl=edg2B9HjnHdEpmwnUOT0-w) fetch code:good/[google drive](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view) |  
 | 2022 | RSS | USOD | [google drive](https://irvlab.cs.umn.edu/resources/usod-dataset) |  
-| 2022 | RSS | UFO-120 | [google drive](http://irvlab.cs.umn.edu/resources/ufo-120-dataset) |  
+| 2020 | RSS | UFO-120 | [google drive](http://irvlab.cs.umn.edu/resources/ufo-120-dataset) |  
